@@ -1,4 +1,8 @@
-### 🧩 Step-by-step commands
+🧩 Flask App Database Initialization Guide
+
+Repository: https://github.com/moa-digitalagency/BellariConcept.git
+
+Stack: Python (Flask) + PostgreSQL
 
 #### Open the PostgreSQL shell as the postgres admin:
 ```bash
@@ -99,31 +103,4 @@ You should see something like:
 ```
 Use `\q` to exit PostgreSQL.
 
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
-
-#### 
-```bash
-```
+ 
