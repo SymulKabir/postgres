@@ -22,7 +22,7 @@ CREATE DATABASE lithiase OWNER lithiase_user;
 #### Grant full access on that database to your new user:
 
 ```sql
-GRANT ALL PRIVILEGES ON DATABASE lithiase_user TO lithiase;
+GRANT ALL PRIVILEGES ON DATABASE lithiase TO lithiase_user;
 
 ```
 
